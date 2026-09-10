@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-50612-layers-dha-phase-5/sitemap.xml
